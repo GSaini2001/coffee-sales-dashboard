@@ -30,6 +30,9 @@ This repository contains an interactive Excel dashboard that analyzes coffee sal
 - [`Coffee_Sales_Orders.xlsx`](coffeeOrdersProject.xlsx)
 
 > 💡 **To interact with the dashboard**, download the file and open it in Microsoft Excel.
+>
+> ![Dashboard Preview]()
+
 
 ---
 
