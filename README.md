@@ -31,7 +31,7 @@ This repository contains an interactive Excel dashboard that analyzes coffee sal
 
 > 💡 **To interact with the dashboard**, download the file and open it in Microsoft Excel.
 >
-> ![Dashboard Preview]()
+> ![Dashboard Preview](https://github.com/GSaini2001/coffee-sales-dashboard/blob/main/dashboard.png)
 
 
 ---
